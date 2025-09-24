@@ -1,0 +1,78 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ArrowController_Start_mD6DAEA5FE8EF405DE556CC9B42FC4956FB1A7949 (void);
+extern void ArrowController_Update_mB808269BD56B06975A3729674F769683BCCEDAB6 (void);
+extern void ArrowController__ctor_m5363B3666D1BBC8ACB329EE770C93ED8D030DD98 (void);
+extern void ArrowGenerator_Update_m896687726E1436D11D42B5773343423F964EDAE4 (void);
+extern void ArrowGenerator__ctor_mBE2F0C0CC8F268F4A8AF1827474BB0D3715724AD (void);
+extern void CatContoller_Start_mB00B8B21A2CB6BB61C03C09AB230C9C8EB0700FA (void);
+extern void CatContoller_LButtonDown_mE8BE00BD94B61A34FCA8C23DADC74B60BFE11D25 (void);
+extern void CatContoller_RButtonDown_m7EF6F09A2206FD64D003353DBFB6EB2A72AF2D90 (void);
+extern void CatContoller__ctor_m31D08A39C6868BB29D298C8D4839015E6592C528 (void);
+extern void GameDirector_Start_m02BE40249C44E2ECC4035D59D4A70F6678A41E9C (void);
+extern void GameDirector_DecreaseHp_m3B33B1641B4C516EA1CD6545EAFD93962F2AAE15 (void);
+extern void GameDirector__ctor_m11BFC3A4A757A802BDD31DFC5E5F1D19E54DF1DD (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[14] = 
+{
+	ArrowController_Start_mD6DAEA5FE8EF405DE556CC9B42FC4956FB1A7949,
+	ArrowController_Update_mB808269BD56B06975A3729674F769683BCCEDAB6,
+	ArrowController__ctor_m5363B3666D1BBC8ACB329EE770C93ED8D030DD98,
+	ArrowGenerator_Update_m896687726E1436D11D42B5773343423F964EDAE4,
+	ArrowGenerator__ctor_mBE2F0C0CC8F268F4A8AF1827474BB0D3715724AD,
+	CatContoller_Start_mB00B8B21A2CB6BB61C03C09AB230C9C8EB0700FA,
+	CatContoller_LButtonDown_mE8BE00BD94B61A34FCA8C23DADC74B60BFE11D25,
+	CatContoller_RButtonDown_m7EF6F09A2206FD64D003353DBFB6EB2A72AF2D90,
+	CatContoller__ctor_m31D08A39C6868BB29D298C8D4839015E6592C528,
+	GameDirector_Start_m02BE40249C44E2ECC4035D59D4A70F6678A41E9C,
+	GameDirector_DecreaseHp_m3B33B1641B4C516EA1CD6545EAFD93962F2AAE15,
+	GameDirector__ctor_m11BFC3A4A757A802BDD31DFC5E5F1D19E54DF1DD,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[14] = 
+{
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	24728,
+	14038,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	14,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
